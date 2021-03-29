@@ -1,5 +1,5 @@
 # URBANSTORE_MINIPROJECT
 
-##DBMS MINI PROJECT
+## DBMS MINI PROJECT
 
 ### Online Furniture Store
